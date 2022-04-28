@@ -1,9 +1,0 @@
-ANNOTATIONS
-
-1. NNum is Unique in table Student
-2. SSN is Unique in table Student
-3. Cost is a derived attribute and is computed by the formula (Year in the Date - 2010)*5
-4. Breed is Unique in table Cat
-5. In a tuple of table Bites, Bitee != Biter
-6. The intersection of the set of SerialNums in Cat and of the SerialNums in Dog is empty.
-7. The union of the set of SerialNums in Cat and of the SerialNums in Dog is equal to the set of SerialNums in Animal. 
